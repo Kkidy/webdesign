@@ -1,0 +1,35 @@
+*{
+	background-color: #002b36;
+	font-family: 'Oswald', sans-serif;
+}
+
+h1 {
+	color: #cb4b16;
+	text-align: center;
+	font-size: 3em;
+}
+
+a {
+	color: #859900;
+	text-decoration: none;
+	/*font-size: 30px;*/
+}
+
+a:hover {
+	color: #cb4b16;
+}
+
+p {
+	padding-left: 500px;
+	font-size: 20px;
+	color: #839496;
+}
+
+.slang {
+	font-size: 30px;
+}
+
+.slang a{
+	font-size: 20px;
+
+}
